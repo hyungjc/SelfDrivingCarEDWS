@@ -1,3 +1,3 @@
-Self Driving Car
+<h1>Self Driving Car</h1>
 
-Project for EDWS course
+<p>Project for EDWS course</p>
